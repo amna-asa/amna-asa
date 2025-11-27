@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Block chain and Android app development**
 
-- 📫 How to reach me **018amna@gmail.com**
+- 📫 How to reach me **amna.asad003pk@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
